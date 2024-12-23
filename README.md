@@ -88,9 +88,10 @@ Thank you for using the Library Management System. Goodbye!
 ---
 
 ## SCREENSHOTS:
+
 **mg1**
-![monisha1](https://github.com/user-attachments/assets/2ca405c8-ff98-4bdb-8291-960c5f942ed9)   
+![vcd](https://github.com/user-attachments/assets/3252fd2d-c080-4d76-8ede-9e85a6c7aab3) 
 
 **img 2**
+![vdc](https://github.com/user-attachments/assets/798d476a-3000-4fda-8744-4efc13f5631a)
 
-![monisha2](https://github.com/user-attachments/assets/ffa03623-ae7c-4816-afc7-46673b482851)
